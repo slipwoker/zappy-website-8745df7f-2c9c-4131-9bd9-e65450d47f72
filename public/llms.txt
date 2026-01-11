@@ -1,0 +1,41 @@
+# My Business — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+## Legal & Policy
+
+### Privacy Policy
+https://my-business-8745df7f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://my-business-8745df7f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://my-business-8745df7f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About My Business
+My Business is a business in the General industry.
+
+## Target Audience
+General audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://my-business-8745df7f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://my-business-8745df7f.zappy5.app/robots.txt
